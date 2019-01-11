@@ -1,2 +1,2 @@
 # OOAD
-A chess game called Myrmidon for OOAD assignment
+A chess game called Myrmidon for our OOAD assignment
